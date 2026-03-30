@@ -70,17 +70,28 @@ fun_fact: "I build 3D portfolios in space because the web needs more gravity"
 
 ---
 
-## ⚡ Tech Arsenal
+## 💻 Languages I Speak
 
-### 🖥️ Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Mojo](https://img.shields.io/badge/Mojo-%23FF6F00.svg?style=for-the-badge&logo=fire&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+</div>
+
+---
+
+## ⚡ Tech Arsenal
 
 ### 🚀 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -121,20 +132,62 @@ fun_fact: "I build 3D portfolios in space because the web needs more gravity"
 ![Unreal Engine](https://img.shields.io/badge/Unreal-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
+### 🐍 Python Ecosystem
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🦀 Rust Ecosystem
+![Tokio](https://img.shields.io/badge/Tokio-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Actix](https://img.shields.io/badge/Actix--Web-%23000000.svg?style=for-the-badge&logo=rust&logoColor=orange)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-%23654FF0.svg?style=for-the-badge&logo=webassembly&logoColor=white)
+![Cargo](https://img.shields.io/badge/Cargo-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+### ⚙️ C++ Ecosystem
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=black)
+![Vulkan](https://img.shields.io/badge/Vulkan-%23AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Boost](https://img.shields.io/badge/Boost-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🔥 Mojo / AI-Native Stack
+![Mojo](https://img.shields.io/badge/Mojo-%23FF6F00.svg?style=for-the-badge&logo=fire&logoColor=white)
+![MAX](https://img.shields.io/badge/Modular_MAX-%23FF6F00.svg?style=for-the-badge&logo=fire&logoColor=white)
+![MLIR](https://img.shields.io/badge/MLIR-%230075A8.svg?style=for-the-badge&logo=llvm&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
+
+### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-%23CC785C.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-%23005CED.svg?style=for-the-badge&logo=onnx&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-%23FF7F50.svg?style=for-the-badge&logo=stability-ai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-%23000000.svg?style=for-the-badge&logo=pinecone&logoColor=white)
+
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NipunKushwaha-web&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunKushwaha-web&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NipunKushwaha-web&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunKushwaha-web&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=NipunKushwaha-web&theme=tokyonight&hide_border=true)
+<img src="https://nirzak-streak-stats.vercel.app/?user=NipunKushwaha-web&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -144,7 +197,7 @@ fun_fact: "I build 3D portfolios in space because the web needs more gravity"
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=NipunKushwaha-web&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+<img src="https://github-profile-trophy.vercel.app/?username=NipunKushwaha-web&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
@@ -154,7 +207,7 @@ fun_fact: "I build 3D portfolios in space because the web needs more gravity"
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NipunKushwaha-web&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NipunKushwaha-web&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -171,8 +224,6 @@ fun_fact: "I build 3D portfolios in space because the web needs more gravity"
 ---
 
 <div align="center">
-
-![Profile Views](https://visitcount.itsvg.in/api?id=NipunKushwaha-web&label=Profile%20Views&color=6&icon=5&pretty=true)
 
 **Thanks for visiting! Check out my [3D Portfolio 🌌](https://space3dportfolio.netlify.app)**
 
