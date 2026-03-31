@@ -44,28 +44,13 @@ fun_fact: "I build portfolios in space because the web needs more gravity 🚀"
 
 ## 🛠️ Tech Stack
 
-### 💬 Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,rust,cs,php" />
-
-### 🎨 Frontend & 3D
-<img src="https://skillicons.dev/icons?i=react,threejs,nextjs,tailwind,figma,vite" />
-
-### 🖌️ Design
-<img src="https://skillicons.dev/icons?i=ps,ai,ae,pr" />
-
-### ⚙️ Backend & Mobile
-<img src="https://skillicons.dev/icons?i=nodejs,flutter,express,nestjs,fastapi,laravel" />
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase" />
-
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=gcp,aws,azure,docker,cloudflare,git" />
-
-### 🤖 AI / ML
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+<div align="center">
+  
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,rust,cs,php,latex,react,threejs,nextjs,tailwind,figma,vite,ps,ai,ae,pr,nodejs,flutter,express,nestjs,fastapi,laravel,mongodb,postgres,mysql,redis,firebase,supabase,gcp,aws,azure,docker,cloudflare,git,tensorflow,pytorch,opencv,sklearn" />
 
 ---
+
+</div>
 
 ## 🌐 Connect With Me
 
