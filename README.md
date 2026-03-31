@@ -72,87 +72,32 @@ fun_fact: "I build 3D portfolios in space because the web needs more gravity"
 ## ⚡ Tech Arsenal
 
 ### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
-![GSAP](https://img.shields.io/badge/GreenSock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+<a href="https://developer.mozilla.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,flutter,laravel,tailwind,bootstrap,threejs,vite" />
+</a>
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+<a href="https://developer.mozilla.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,firebase,supabase,cassandra,dynamodb" />
+</a>
 
 ### ☁️ Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+<img src="https://skillicons.dev/icons?i=gcp,azure,cloudflare,git,gitlab,docker,aws" />
 
 ### 🎨 Design & Creative
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-
-### 🎮 Game Dev
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+<img src="https://skillicons.dev/icons?i=figma,framer,canva" />
 
 ### 🐍 Python Ecosystem
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+<img src="https://skillicons.dev/icons?i=numpy,pandas,fastapi,flask,jupyter" />
 
 ### 🦀 Rust Ecosystem
-![Tokio](https://img.shields.io/badge/Tokio-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Actix](https://img.shields.io/badge/Actix--Web-%23000000.svg?style=for-the-badge&logo=rust&logoColor=orange)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-%23654FF0.svg?style=for-the-badge&logo=webassembly&logoColor=white)
-![Cargo](https://img.shields.io/badge/Cargo-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+<img src="https://skillicons.dev/icons?i=rust,wasm" />
 
 ### ⚙️ C++ Ecosystem
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=black)
-![Vulkan](https://img.shields.io/badge/Vulkan-%23AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Boost](https://img.shields.io/badge/Boost-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### 🔥 Mojo / AI-Native Stack
-![Mojo](https://img.shields.io/badge/Mojo-%23FF6F00.svg?style=for-the-badge&logo=fire&logoColor=white)
-![MAX](https://img.shields.io/badge/Modular_MAX-%23FF6F00.svg?style=for-the-badge&logo=fire&logoColor=white)
-![MLIR](https://img.shields.io/badge/MLIR-%230075A8.svg?style=for-the-badge&logo=llvm&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
+<img src="https://skillicons.dev/icons?i=opencv,opengl,cmake" />
 
 ### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-%23CC785C.svg?style=for-the-badge&logo=anthropic&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-%23005CED.svg?style=for-the-badge&logo=onnx&logoColor=white)
-![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-%23FF7F50.svg?style=for-the-badge&logo=stability-ai&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-%23000000.svg?style=for-the-badge&logo=pinecone&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,keras" />
 
 ---
 
