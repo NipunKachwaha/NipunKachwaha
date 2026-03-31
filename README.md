@@ -68,7 +68,7 @@ fun_fact: "I build portfolios in space because the web needs more gravity 🚀"
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-black?style=for-the-badge)](https://space3dportfolio.netlify.app)
+[<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f310.svg" width="48" height="48"/>](https://space3dportfolio.netlify.app)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nipun-/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/thakurxnipun/)
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/desireofrana)
