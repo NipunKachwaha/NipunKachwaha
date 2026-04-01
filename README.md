@@ -26,18 +26,18 @@ role:      Full-Stack Engineer & Creative Technologist
 location:  Delhi, India · UTC+05:30
 portfolio: https://space3dportfolio.netlify.app
 
-currently_building:
-  - 3D Web Experiences (Three.js + React + WebGL)
-  - AI Agents & Code Review Automation
-  - Cross-platform Mobile Apps (Flutter)
+currently_working:
+  - Dynamic Hyperlocal Pharmaceutical Pricing Tracker
+  - AI-Powered Wholesale Order Aggregation System
+  - AI-Powered Driver Distraction Detection System
 
 interests:
-  - WebGL & 3D Graphics
-  - Game Dev (Unity & Unreal)
-  - Web3 & Decentralized Apps
-  - UI/UX Design Systems
+  - Generative AI in 3D Web Experiences
+  - AI-Driven Decentralized Apps
+  - Machine Learning for Game Development
+  - Algorithmic UI/UX Design
 
-fun_fact: "I build portfolios in space because the web needs more gravity 🚀"
+fun_fact: "I build Projects in space because the tech needs more gravity 🚀"
 ```
 
 ---
