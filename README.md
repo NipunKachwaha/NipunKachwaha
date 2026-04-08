@@ -27,7 +27,6 @@ location:  Delhi, India · UTC+05:30
 portfolio: https://space3dportfolio.netlify.app
 
 currently_working:
-  - Dynamic Hyperlocal Pharmaceutical Pricing Tracker
   - AI-Powered Wholesale Order Aggregation System
   - AI-Powered Driver Distraction Detection System
 
